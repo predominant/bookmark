@@ -50,7 +50,8 @@
  *
  */
 	if (!defined('CAKE_CORE_INCLUDE_PATH')) {
-		define('CAKE_CORE_INCLUDE_PATH',  DS . 'Users' . DS . 'predominant' . DS . 'Projects' . DS . 'cakephp' . DS . '1.3');
+		//define('CAKE_CORE_INCLUDE_PATH',  DS . 'Users' . DS . 'predominant' . DS . 'Projects' . DS . 'cakephp' . DS . '1.3');
+		define('CAKE_CORE_INCLUDE_PATH', ROOT);
 	}
 
 /**
