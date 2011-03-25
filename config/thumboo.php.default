@@ -1,0 +1,5 @@
+<?php
+$config = array(
+	'Thumboo.Key' => 'PUT YOUR KEY HERE',
+);
+
